@@ -131,4 +131,9 @@ a:hover
 	{
 		display: block;
 	}
+	div.body
+{
+	margin-left: 25px;
+	margin-right: 25px;
+}
 }
